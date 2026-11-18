@@ -32,4 +32,9 @@ button {
 } button:hover {
     background: #e659b2;
     transition: 0.3s;
+}footer {
+    background: #263859;
+    color: white;
+    padding: 20px;
+    margin-top: 30px;
 }
