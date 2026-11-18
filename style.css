@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #dc49c4;
+    color: #333;
+    text-align: center;
+}
+
+header {
+    background: #263859;
+    color: rgb(230, 89, 178);
+    padding: 40px;
+}
+
+section {
+    background: rgb(184, 39, 126);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+button {
+    background: #263859;
+    color: rgb(212, 60, 214);
+    padding: 12px 25px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
